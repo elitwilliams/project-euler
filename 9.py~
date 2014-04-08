@@ -9,17 +9,10 @@ def find_triplets(num):
                     triplets.append([a,b,c])
     return triplets
 
-def product(listy):
-    i = 1
-    for number in listy:
-        i*=number
-    return i
-
 triplets = find_triplets(1000)
-
-print triplets
+'''print triplets'''
 
 for i in range(0, len(triplets)):
     if sum(triplets[i])==1000:
-        print product(triplets[i])
+        print triplets[i]	
 
