@@ -1,3 +1,5 @@
+# Find Pythagorean triplets
+
 def find_triplets(num):
 
     triplets = []
