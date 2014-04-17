@@ -1,3 +1,5 @@
+# Find sum of all multiples of 3 and 5 below 1000
+
 i = 0
 sum = 0
 
