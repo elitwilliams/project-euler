@@ -76,3 +76,5 @@ def max_diag_upr_prod(listy,dim):
 # Print maximum vertical, horizontal, or diagonal product of 4 numbers from a list
 
 print max(max_vert_prod(grid,20),max_horiz_prod(grid,20),max_diag_prod(grid,20),max_diag_upr_prod(grid,20))
+
+# Solution = 70600674

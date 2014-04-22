@@ -22,5 +22,6 @@ for x in range(0,2000000):
 
 print sum(primes)
 
+# Solution = 142913828922
 
 
