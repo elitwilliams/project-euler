@@ -1,4 +1,0 @@
-grid = [1,02,03,
-4,5]
-
-print max(grid)
